@@ -6,4 +6,4 @@
  -estou voltando da alura
  -eu ajudo o meu pai na agricultura
  -gosto de estudar 
- 
+ -gosto de trator
